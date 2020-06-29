@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const FRONT_SERVICE_URL = 'http://localhost:8181/';
+const FRONT_SERVICE_URL = 'http://gongsam.dlinkddns.com:3335/';
 
 class ApiService {
   fetchUsers() {
